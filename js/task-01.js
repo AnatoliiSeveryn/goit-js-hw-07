@@ -1,1 +1,2 @@
-const categoriesEl = document.querySelector('.categories')
+const ulCategor = document.getElementById("categories");
+console.log(ulCategor.children.length);
