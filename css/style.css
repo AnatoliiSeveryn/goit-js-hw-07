@@ -26,6 +26,11 @@ img {
     justify-content: center;
 }
 
+
+.item:last-child {
+  margin-top: 15px;
+}
+
 #validation-input {
     border: 3px solid #bdbdbd;
   }
